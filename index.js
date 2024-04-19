@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 
-const tarefa = require('\Users\fmello\Documents\Back - end - aula node')
+const tarefa = require('./model/tarefa')
 
 // route
 // get -> receber dados
